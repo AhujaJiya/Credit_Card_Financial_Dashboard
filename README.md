@@ -70,3 +70,12 @@ Action:
 - Focus on underperforming regions through regional partnerships and offers.
 - Increase visibility via targeted digital ads in low-usage areas.
 
+## 📂 Files Overview
+- 'Credit Card Customer Report.pbix': Power BI dashboard visualizing customer demographics and credit card usage patterns.
+- 'Credit Card Transaction Report.pbix': Power BI dashboard analyzing transaction trends, spending behavior, and card activity.
+- 'Credit Card Financial Report.pdf': PDF report for dashboard preview.
+- 'README.md': Documentation file explaining the project structure, data sources, and how to interpret the dashboards.
+- 'credit_card.csv': Primary dataset with credit card attributes like card category, annual fees, interest earned, etc, updated till 24 December 2023.
+- 'customer.csv': Master dataset containing customer details including ID, age, gender, income group, etc, updated till 24 December 2023.
+- 'cc_add.csv': Extended credit card dataset, updated till 31 December 2023 to support future refreshes in Power BI.
+- 'cust_add.csv': Extended customer address dataset continued till 31 December 2023, enabling seamless weekly updates in Power BI dashboards.
